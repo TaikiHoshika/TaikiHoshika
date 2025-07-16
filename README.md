@@ -2,4 +2,4 @@
 
 ### Like 🫰
 ![](https://skillicons.dev/icons?i=js,ts,java,cs,react,express)  
-![](https://skillicons.dev/icons?i=vscode,idea)  
+![](https://skillicons.dev/icons?i=vscode,vs,idea)  
